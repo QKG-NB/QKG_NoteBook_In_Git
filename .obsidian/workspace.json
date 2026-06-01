@@ -11,14 +11,14 @@
             "id": "3158563bfad218a7",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "KUKA/实现浮点数转换字符串QQQQ.md",
-                "bFile": "KUKA/实现浮点数转换字符串QQQQ.md",
-                "aRef": ""
+                "file": "KUKA/实现浮点数转换字符串Qkkk.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 实现浮点数转换字符串QQQQ  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "实现浮点数转换字符串Qkkk"
             }
           }
         ]
@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 388.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,7 +196,7 @@
   },
   "active": "0763308c57210d86",
   "lastOpenFiles": [
-    "KUKA/实现浮点数转换字符串QQQQ.md",
+    "KUKA/实现浮点数转换字符串Qkkk.md",
     "KUKA/实现浮点数转换字符串.md",
     "YOLO",
     "未命名.base",
