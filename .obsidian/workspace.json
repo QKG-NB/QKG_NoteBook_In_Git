@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KUKA/SWRITE函数用法.md",
+                "file": "KUKA/KUKA Office Lite中修改机器人型号.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "SWRITE函数用法"
+              "title": "KUKA Office Lite中修改机器人型号"
             }
           }
         ]
@@ -198,10 +198,14 @@
   },
   "active": "69c1027a8429a665",
   "lastOpenFiles": [
+    "Pasted image 20260603104609.png",
+    "Pasted image 20260603104455.png",
+    "Pasted image 20260603104210.png",
+    "Pasted image 20260603103530.png",
+    "KUKA/SWRITE函数用法.md",
+    "KUKA/KUKA Office Lite中修改机器人型号.md",
     "KUKA/“State” 变量说明.md",
     "KUKA/浮点数转换字符串.md",
-    "KUKA/SWRITE函数用法.md",
-    "未命名.md",
     "KUKA/实现浮点数转换字符串.md",
     "YOLO",
     "未命名.base",
