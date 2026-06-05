@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KUKA/KUKA Office Lite中修改机器人型号.md",
+                "file": "KUKA/KUKA Office Lite中修改机器人型号（WorkVisual）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KUKA Office Lite中修改机器人型号"
+              "title": "KUKA Office Lite中修改机器人型号（WorkVisual）"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 361.5
   },
   "right": {
     "id": "4eff0aa2dabd5e08",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KUKA/KUKA Office Lite中修改机器人型号.md",
+                "file": "KUKA/KUKA Office Lite中修改机器人型号（WorkVisual）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "KUKA Office Lite中修改机器人型号 的反向链接列表"
+              "title": "KUKA Office Lite中修改机器人型号（WorkVisual） 的反向链接列表"
             }
           },
           {
@@ -195,11 +195,15 @@
   },
   "active": "4501535443a8c768",
   "lastOpenFiles": [
+    "KUKA/KUKA Office Lite中修改机器人型号（更改文件）.md",
+    "KUKA/KUKA Office Lite中修改机器人型号（WorkVisual）.md",
+    "KUKA/KUKA系统组成说明.md",
+    "附件文件夹/Pasted image 20260605111230.png",
+    "KUKA/“State” 变量说明.md",
+    "KUKA/浮点数转换字符串.md",
     "KUKA/SWRITE函数用法.md",
-    "KUKA/KUKA Office Lite中修改机器人型号.md",
     "附件文件夹/Pasted image 20260603110814.png",
     "附件文件夹/Pasted image 20260603103530.png",
-    "KUKA/浮点数转换字符串.md",
     "附件文件夹/Pasted image 20260603104210.png",
     "附件文件夹/Pasted image 20260603111940.png",
     "附件文件夹/Pasted image 20260603111402.png",
@@ -208,8 +212,6 @@
     "附件文件夹",
     "附件文件夹/Pasted image 20260603111615.png",
     "Pasted image 20260603105503.png",
-    "Pasted image 20260603104455.png",
-    "KUKA/“State” 变量说明.md",
     "KUKA/实现浮点数转换字符串.md",
     "YOLO",
     "未命名.base",
