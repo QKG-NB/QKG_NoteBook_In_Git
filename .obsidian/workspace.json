@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KUKA/KUKA Office Lite中修改机器人型号（WorkVisual）.md",
+                "file": "KUKA/CWRITE 、SWRITE 的 “Format” 变量.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KUKA Office Lite中修改机器人型号（WorkVisual）"
+              "title": "CWRITE 、SWRITE 的 “Format” 变量"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KUKA/KUKA Office Lite中修改机器人型号（WorkVisual）.md",
+                "file": "KUKA/CWRITE 、SWRITE 的 “Format” 变量.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "KUKA Office Lite中修改机器人型号（WorkVisual） 的反向链接列表"
+              "title": "CWRITE 、SWRITE 的 “Format” 变量 的反向链接列表"
             }
           },
           {
@@ -193,15 +193,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4501535443a8c768",
+  "active": "a13ff71f71824720",
   "lastOpenFiles": [
-    "KUKA/KUKA Office Lite中修改机器人型号（更改文件）.md",
-    "KUKA/KUKA Office Lite中修改机器人型号（WorkVisual）.md",
-    "KUKA/KUKA系统组成说明.md",
-    "附件文件夹/Pasted image 20260605111230.png",
     "KUKA/“State” 变量说明.md",
-    "KUKA/浮点数转换字符串.md",
+    "KUKA/CWRITE 、SWRITE 的 “Format” 变量.md",
     "KUKA/SWRITE函数用法.md",
+    "KUKA/KUKA系统组成说明.md",
+    "KUKA/KUKA Office Lite中修改机器人型号（WorkVisual）.md",
+    "KUKA/KUKA Office Lite中修改机器人型号（更改文件）.md",
+    "附件文件夹/Pasted image 20260605111230.png",
+    "KUKA/浮点数转换字符串.md",
     "附件文件夹/Pasted image 20260603110814.png",
     "附件文件夹/Pasted image 20260603103530.png",
     "附件文件夹/Pasted image 20260603104210.png",
