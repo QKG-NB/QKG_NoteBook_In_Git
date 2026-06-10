@@ -72,6 +72,3 @@ CWRITE 或 SWRITE 的格式说明具有以下结构：
 （参见 >>> 6.15.3 “Conversion characters” 第 35 页）
 
 ---
-
-*文档来源：KSS/VSS 8.2 to 8.7 CREAD CWRITE V1 | 发布：02.08.2019*  
-*页码：33/76, 34/76 | [www.kuka.com](https://www.kuka.com/)*
