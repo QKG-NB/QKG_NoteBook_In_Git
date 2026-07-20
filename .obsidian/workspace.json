@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KUKA/KUKA 逼近模式（Approximation）完整指南.md",
+                "file": "KUKA/KUKA `TRIGGER` 指令详解笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KUKA 逼近模式（Approximation）完整指南"
+              "title": "KUKA `TRIGGER` 指令详解笔记"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KUKA/KUKA 逼近模式（Approximation）完整指南.md",
+                "file": "KUKA/KUKA `TRIGGER` 指令详解笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "KUKA 逼近模式（Approximation）完整指南 的反向链接列表"
+              "title": "KUKA `TRIGGER` 指令详解笔记 的反向链接列表"
             }
           },
           {
@@ -195,13 +195,14 @@
   },
   "active": "4501535443a8c768",
   "lastOpenFiles": [
-    "KUKA/系统变量/$MODE_OP.md",
+    "KUKA/CWRITE 、SWRITE 的 “Format” 变量.md",
+    "KUKA/KUKA `TRIGGER` 指令详解笔记.md",
     "KUKA/KUKA 逼近模式（Approximation）完整指南.md",
+    "KUKA/系统变量/$MODE_OP.md",
     "KUKA/KUKA系统组成说明.md",
     "KUKA/“State” 变量说明.md",
     "KUKA/系统变量",
     "KUKA/浮点数转换字符串.md",
-    "KUKA/CWRITE 、SWRITE 的 “Format” 变量.md",
     "KUKA/KUKA Office Lite中修改机器人型号（更改文件）.md",
     "KUKA/KUKA Office Lite中修改机器人型号（WorkVisual）.md",
     "KUKA/SWRITE函数用法.md",
